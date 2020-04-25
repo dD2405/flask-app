@@ -100,7 +100,7 @@ python-geoip-geolite2==2015.303
 pythonds==1.2.1
 pytz==2018.7
 pywinpty==0.5.5
-PyYAML==3.13
+PyYAML==5.1
 pyzmq==17.1.2
 qtconsole==4.4.3
 requests==2.23.0
