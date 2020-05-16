@@ -27,7 +27,7 @@ def predict():
         # return data
         #return jsonify({'prediction': str(result)})
 
-        return jsonify(results=output)
+        return jsonify(output)
 
 if __name__ == '__main__':
         print('model loaded')
